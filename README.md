@@ -29,6 +29,8 @@ Recording available here : [TinyML Aspirants Community September Meetup](https:/
 
 Recording available here : [TinyML Aspirants Community January Meetup](https://www.youtube.com/watch?v=q4i5QvI90TI&t=142s)
 
+* Presented my project on "Pneumonia Detection using EdgeML" at Aarohan 2021 organized by National Institute of Technology, Durgapur on April 2021.
+
 * Presented my project on "Real-Time Pneumonia Detection using ML, Balena and Docker" at DockerCon 2021 organized by Docker Inc on June 2021.
 
 Recording available here : [DockerCon 2021 Session](https://docker.events.cube365.net/dockercon-live/2021/community/95w6ecHo5KjDcGDGm)
