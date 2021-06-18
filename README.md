@@ -1,4 +1,4 @@
-# talks
+# Talks
  List of all my talks wherever I have spoken about tech!
 
  ## 2018 
