@@ -14,13 +14,13 @@
 
 * Presented my project "CoronaSecure : A COVID-19 Healthband" at India Tech Week 2020 organized by EFY (Electronics For You) Group on May 2020.
 
-Recording available here : (ITW 2020)[https://vimeo.com/420575715/fc98519604]
+Recording available here : [ITW 2020](https://vimeo.com/420575715/fc98519604)
 
 ## 2021
 * Presented my project on "Real-Time Pneumonia Detection using ML, Balena and Docker" at DockerCon 2021 organized by Docker Inc on June 2021.
 
-Recording available here : (DockerCon 2021 Session)[https://docker.events.cube365.net/dockercon-live/2021/community/95w6ecHo5KjDcGDGm]
+Recording available here : [DockerCon 2021 Session](https://docker.events.cube365.net/dockercon-live/2021/community/95w6ecHo5KjDcGDGm)
 
 * Presented a talk on "TinyML : Forever and Beyond at Global AI Virtual Tour 2021 sponsored by Microsoft on July 2021.
 
-Recording available here : (Global AI Virtual Tour 2021 Talk)[https://tour.globalai.live]
+Recording available here : [Global AI Virtual Tour 2021 Talk](https://tour.globalai.live)
