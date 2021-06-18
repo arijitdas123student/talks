@@ -35,10 +35,10 @@ Recording available here : [TinyML Aspirants Community January Meetup](https://w
 
 Recording available here : [DockerCon 2021 Session](https://docker.events.cube365.net/dockercon-live/2021/community/95w6ecHo5KjDcGDGm)
 
-* Presented a talk on "TinyML : Forever and Beyond at Global AI Virtual Tour 2021 sponsored by Microsoft on July 2021.
+* Presented a talk on "TinyML : Forever and Beyond" at Global AI Virtual Tour 2021 sponsored by Microsoft on July 2021.
 
 Recording available here : [Global AI Virtual Tour 2021 Talk](https://tour.globalai.live)
 
 
 
-#### Feel free to drop me an [email](mailto:arijitdas18022006@gmail.com) if you want to invite me as a speaker to your event. 
+### Feel free to drop me an [email](mailto:arijitdas18022006@gmail.com) if you want to invite me as a speaker to your event. 
