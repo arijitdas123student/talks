@@ -5,6 +5,8 @@
  * Participated to present my project on "LiFi using Infrared Systems" at CBSE National Level Science Fair 2018 on September 2018.
 
  ## 2019 
+ * Presented my group project on "Arduino based Robotic Arm for industrial transportations" at Hem Sheela Model School Science Fair, Durgapur on November 2019.
+
  * Presented my group project on "Energy Audit and Methods for improving Energy Efficiency at School" at Institute of Engineers (India), Durgapur on December 2019.
 
 ## 2020
