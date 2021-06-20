@@ -37,7 +37,7 @@ Recording available here : [DockerCon 2021 Session](https://docker.events.cube36
 
 * Presented a talk on "TinyML : Forever and Beyond" at Global AI Virtual Tour 2021 sponsored by Microsoft on July 2021.
 
-Recording available here : [Global AI Virtual Tour 2021 Talk](https://tour.globalai.live)
+Recording available here : [Global AI Virtual Tour 2021 Talk](https://www.youtube.com/watch?v=IDvzfQeVLlA)
 
 
 
