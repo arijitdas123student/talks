@@ -39,6 +39,10 @@ Recording available here : [DockerCon 2021 Session](https://docker.events.cube36
 
 Recording available here : [Global AI Virtual Tour 2021 Talk](https://www.youtube.com/watch?v=IDvzfQeVLlA)
 
+* Spoke about EdgeAI with Containerisation and SBC's at balena's IoT Happy Hour on July 2021.
+
+Recording available here : [balena IoT Happy Hour Episode #62](https://www.youtube.com/watch?v=Q0A343Q8XJw)
+
 
 
 ### Feel free to drop me an [email](mailto:arijitdas18022006@gmail.com) if you want to invite me as a speaker to your event. 
