@@ -1,6 +1,3 @@
-# Talks
- List of all my talks wherever I have spoken about tech!
-
 ## 2018 
  * Participated to present my project on "LiFi using Infrared Systems" at CBSE National Level Science Fair 2018 on September 2018.
 
