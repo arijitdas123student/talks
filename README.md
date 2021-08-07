@@ -43,6 +43,8 @@ Recording available here : [Global AI Virtual Tour 2021 Talk](https://www.youtub
 
 Recording available here : [balena IoT Happy Hour Episode #62](https://www.youtube.com/watch?v=Q0A343Q8XJw)
 
+* Presented a lightning talk on "Pneumonia Detection Solution for Everyone!" at [ML Collective's Research Jam #3](https://mlcollective.org/research-jam-3/) on August 2021.
 
+Recording available here : [ML Collective Research Jam #3 Talk](https://www.youtube.com/watch?v=EktncBW69lQ&t=1996s)
 
 ### Feel free to drop me an [email](mailto:arijitdas18022006@gmail.com) if you want to invite me as a speaker to your event. 
