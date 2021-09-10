@@ -45,4 +45,8 @@ Recording available here : [balena IoT Happy Hour Episode #62](https://www.youtu
 
 Recording available here : [ML Collective Research Jam #3 Talk](https://www.youtube.com/watch?v=EktncBW69lQ&t=1996s)
 
+* Presented a talk on "Developing to deploying TinyML models in minutes!" at [Linaro Connect 2021 Fall Edition](https://connect.linaro.org/resources/lvc21f/lvc21f-213/) on September 2021.
+
+Recording available here : [Linaro Connect 2021 Talk](https://youtu.be/VHu3NBcVZkY)
+
 ### Feel free to drop me an [email](mailto:arijitdas18022006@gmail.com) if you want to invite me as a speaker to your event. 
