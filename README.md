@@ -49,4 +49,8 @@ Recording available here : [ML Collective Research Jam #3 Talk](https://www.yout
 
 Recording available here : [Linaro Connect 2021 Talk](https://youtu.be/VHu3NBcVZkY)
 
+* Presented a talk on "Pneumonia Detection for Everyone and Anywhere!" at [Edge Impulse Imagine 2021 Conference](https://edgeimpulse.com/imagine) on October 2021. 
+
+Recording available here : [Edge Impulse Imagine 2021](https://youtu.be/zS9dTiIjjuA)
+
 ### Feel free to drop me an [email](mailto:arijitdas18022006@gmail.com) if you want to invite me as a speaker to your event. 
