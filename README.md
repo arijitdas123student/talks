@@ -65,4 +65,8 @@ Recording available here : [OSCONF 2021](https://youtu.be/MPKuWb871qg?t=6404)
 
 Details can be found here : [Maker Faire Rome 2021](https://makerfairerome.eu/en/exhibitors/?edition=2021&exhibit=200213)
 
+19) Presented an On-Demand session on "Real-Time Pneumonia Detection using ML, Docker, Balena and Edge Impulse" at GitHub Universe 2021 on October 2021. 
+
+Recording available here : [GitHub Universe 2021](https://www.youtube.com/watch?v=bf0gbqyjdkI)
+
 ### Feel free to drop me an [email](mailto:arijitdas18022006@gmail.com) if you want to invite me as a speaker to your event. 
