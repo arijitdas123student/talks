@@ -69,4 +69,8 @@ Details can be found here : [Maker Faire Rome 2021](https://makerfairerome.eu/en
 
 Recording available here : [GitHub Universe 2021](https://www.youtube.com/watch?v=bf0gbqyjdkI)
 
+20) Presented a talk on "Pneumonia Detection using Embedded Machine Learning" at tinyML For Good Workshop on November 2021.
+
+Recording available here : [tinyML For Good](https://youtu.be/friILPoPM9M?t=36)
+
 ### Feel free to drop me an [email](mailto:arijitdas18022006@gmail.com) if you want to invite me as a speaker to your event. 
