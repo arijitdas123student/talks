@@ -1,6 +1,6 @@
 # Arijit Das
 ## 2018 
-1) Participated to present my project on "LiFi using Infrared Systems" at CBSE National Level Science Fair 2018 on September 2018.
+1) Nominated to present my project on "LiFi using Infrared Systems" at CBSE National Level Science Fair 2018 on September 2018.
 
 ## 2019 
 2) Presented my group project on "Arduino based Robotic Arm for industrial transportations" at Hem Sheela Model School Science Fair, Durgapur on November 2019.
@@ -73,4 +73,8 @@ Recording available here : [GitHub Universe 2021](https://www.youtube.com/watch?
 
 Recording available here : [tinyML For Good](https://youtu.be/friILPoPM9M?t=36)
 
+#2022
+21) Presented a talk on "Developing to deploying TinyML models in minutes!" at [MobileWeek 2022](https://mobileweek.co/) Virtual Conference on August 2022.
+
+Recording available here : [MobileWeek 2022](https://embed.emamo.com/event/worldfestival-2022/s/developing-to-deploying-tinyml-models-in-minutes-aARM3W)
 ### Feel free to drop me an [email](mailto:arijitdas18022006@gmail.com) if you want to invite me as a speaker to your event. 
