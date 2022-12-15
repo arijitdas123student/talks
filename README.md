@@ -73,7 +73,7 @@ Recording available here : [GitHub Universe 2021](https://www.youtube.com/watch?
 
 Recording available here : [tinyML For Good](https://youtu.be/friILPoPM9M?t=36)
 
-#2022
+##2022
 21) Presented a talk on "Developing to deploying TinyML models in minutes!" at [MobileWeek 2022](https://mobileweek.co/) Virtual Conference on August 2022.
 
 Recording available here : [MobileWeek 2022](https://embed.emamo.com/event/worldfestival-2022/s/developing-to-deploying-tinyml-models-in-minutes-aARM3W)
